@@ -4,7 +4,7 @@
   <repositories>
         <repository>
           <id>bukkit-repo</id>
-          <url>http://repo.bukkit.org/content/groups/public/</url>
+          <url>http://89.29.100.25:8080/repository/</url>
         </repository>
   </repositories>
   <groupId>0</groupId>
@@ -21,9 +21,9 @@
 
   <dependencies>
   <dependency>
-    <groupId>org.bukkit</groupId>
-    <artifactId>bukkit</artifactId>
-     <version>1.7.2-R0.3-SNAPSHOT</version>
+    <groupId>cz.gameteam</groupId>
+    <artifactId>spigot</artifactId>
+     <version>1652</version>
     </dependency>
     <dependency>
       <groupId>junit</groupId>
